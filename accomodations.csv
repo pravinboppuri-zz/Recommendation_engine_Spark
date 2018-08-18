@@ -1,0 +1,100 @@
+id,zipcode,city,radius,category,items
+1,50,Vancouver,3,cottage,Comfy Quiet Chalet
+2,65,London,2,cottage,Cozy Calm Hut
+3,65,London,4,house,Agreable Calm Place
+4,3400,Paris,16,castle,Colossal Quiet Chateau
+5,50,Paris,1,cottage,Homy Quiet Shack
+6,35,Dublin,5,house,Pleasant Quiet Place
+7,3200,Seattle,24,castle,Vast Peaceful Fortress
+8,3400,San Francisco,12,castle,Giant Quiet Fortress
+9,1500,London,20,castle,Giant Peaceful Palace
+10,650,Auckland,9,mansion,Sizable Calm Country House
+11,50,Melbourne,1,cottage,Homy Quiet Shanty
+12,90,Seattle,2,house,Beautiful Peaceful Villa
+13,3300,Melbourne,12,castle,Enormous Peaceful Fortress
+14,1200,Melbourne,21,castle,Colossal Peaceful Palace
+15,1300,London,18,castle,Vast Private Fort
+16,45,Melbourne,3,house,Large Calm House
+17,850,NYC,9,mansion,Large Calm Sately House
+18,60,Melbourne,2,cottage,Big Peaceful Hut
+19,4500,Paris,18,castle,Giant Quiet Castle
+20,650,Buenos Aires,12,mansion,Big Private Hall
+21,80,Seattle,2,cottage,Big Peaceful Cabin
+22,50,Auckland,5,house,Pleasant Peaceful House
+23,70,Paris,2,cottage,Homy Calm House
+24,40,San Francisco,2,cottage,Nice Private Cottage
+25,55,Seattle,2,cottage,Nice Calm Chalet
+26,1300,Paris,18,castle,Enormous Peaceful Palace
+27,1500,Berlin,12,castle,Enormous Calm Castle
+28,110,Tokyo,2,house,Beautiful Calm Villa
+29,650,San Francisco,12,mansion,Big Quiet Manor
+30,110,Berlin,5,house,Large Peaceful House
+31,1400,Buenos Aires,15,castle,Colossal Private Castle
+32,850,Seattle,12,mansion,Immense Private Hall
+33,30,Tokyo,2,house,Pleasant Calm Place
+34,4400,NYC,21,castle,Vast Private Fort
+35,2300,NYC,14,castle,Colossal Quiet Chateau
+36,80,NYC,1,cottage,Comfy Private Shanty
+37,2000,Berlin,20,castle,Enormous Quiet Chateau
+38,70,San Francisco,4,house,Big Private House
+39,50,Vancouver,3,house,Beautiful Calm Villa
+40,2900,Seattle,24,castle,Colossal Private Castle
+41,800,Seattle,11,mansion,Big Calm Manor
+42,900,London,12,mansion,Large Calm Residence
+43,60,Melbourne,3,cottage,Nice Private Hut
+44,3400,Melbourne,21,castle,Big Peaceful Chateau
+45,1100,Tokyo,19,castle,Vast Quiet Chateau
+46,1900,San Francisco,15,castle,Colossal Private Castle
+47,900,Seattle,10,mansion,Sizable Calm Sately House
+48,4500,Vancouver,22,castle,Big Calm Fort
+49,90,NYC,2,house,Big Private Villa
+50,2300,Seattle,22,castle,Enormous Calm Fort
+51,70,Auckland,3,cottage,Nice Quiet Hut
+52,1800,Melbourne,23,castle,Giant Private Palace
+53,40,Buenos Aires,2,cottage,Comfy Private Shanty
+54,4400,Melbourne,20,castle,Enormous Quiet Chateau
+55,75,London,2,cottage,Cozy Peaceful Hut
+56,800,London,11,mansion,Sizable Private Residence
+57,800,Auckland,11,mansion,Immense Quiet Residence
+58,40,Berlin,3,cottage,Nice Calm Cottage
+59,55,Tokyo,5,house,Large Peaceful Place
+60,1600,Seattle,19,castle,Vast Peaceful Palace
+61,60,NYC,2,house,Large Calm Place
+62,65,Buenos Aires,2,cottage,Comfy Calm Cabin
+63,2400,Buenos Aires,23,castle,Big Private Chateau
+64,3500,Berlin,13,castle,Enormous Peaceful Fort
+65,45,NYC,2,cottage,Comfy Private Chalet
+66,80,London,2,house,Beautiful Private Villa
+67,2300,Vancouver,13,castle,Giant Calm Chateau
+68,1800,Paris,21,castle,Giant Peaceful Fort
+69,65,NYC,1,cottage,Homy Quiet House
+70,1050,Paris,10,mansion,Great Calm Sately House
+71,55,San Francisco,2,cottage,Cozy Calm Hut
+72,80,Paris,4,house,Beautiful Calm Place
+73,60,London,1,cottage,Nice Peaceful Cabin
+74,2400,Melbourne,12,castle,Giant Calm Fort
+75,50,Berlin,4,house,Large Private Place
+76,30,Berlin,2,house,Pleasant Calm Villa
+77,1150,Dublin,10,mansion,Great Private Country House
+78,2100,Tokyo,17,castle,Giant Private Fortress
+79,1050,Vancouver,10,mansion,Large Private Manor
+80,40,San Francisco,3,cottage,Big Quiet Cabin
+81,70,Seattle,3,cottage,Homy Quiet Shack
+82,75,San Francisco,1,cottage,Cozy Peaceful Cabin
+83,40,San Francisco,3,cottage,Comfy Calm Shack
+84,700,Melbourne,8,mansion,Great Peaceful Sately House
+85,55,Auckland,1,cottage,Nice Private Shack
+86,100,London,4,house,Large Quiet House
+87,850,San Francisco,12,mansion,Immense Peaceful Hall
+88,4100,Seattle,16,castle,Colossal Quiet Palace
+89,45,Seattle,2,cottage,Nice Private House
+90,35,Seattle,5,house,Big Quiet House
+91,650,Melbourne,10,mansion,Large Peaceful Hall
+92,85,San Francisco,3,cottage,Cozy Quiet Bungalow
+93,1800,Vancouver,16,castle,Giant Quiet Chateau
+94,2900,Auckland,25,castle,Giant Peaceful Castle
+95,800,San Francisco,11,mansion,Great Calm Hall
+96,800,Tokyo,9,mansion,Immense Private Country House
+97,75,Auckland,1,cottage,Cozy Quiet Chalet
+98,2000,Paris,23,castle,Big Private Castle
+99,80,NYC,4,house,Pleasant Quiet Place
