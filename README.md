@@ -2,7 +2,7 @@
 
 https://grouplens.org/datasets/movielens/
 
-A collabrative filtering recommendation model is built in python with some of the famous open source data sets available online.
+A collabrative filtering recommendation model built in python with some of the famous open source data sets available online.
 More information on the model can be found from the links below:
 
 https://spark.apache.org/docs/latest/ml-collaborative-filtering.html
