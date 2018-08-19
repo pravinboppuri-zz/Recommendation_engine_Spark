@@ -1,6 +1,10 @@
 # Recommendation_System_Spark
 
-https://grouplens.org/datasets/movielens/
+# Dataset Samples
+
+1) https://grouplens.org/datasets/movielens/
+2) https://github.com/pravinboppuri/Recommendation_engine_Spark/blob/master/accomodations.csv
+3) https://github.com/pravinboppuri/Recommendation_engine_Spark/blob/master/ratings.csv
 
 A collabrative filtering recommendation model built in python with some of the famous open source data sets available online.
 More information on the model can be found from the links below:
@@ -20,4 +24,27 @@ Spark MLIB requires you to train the model using the ALS algorithm and then appl
 
 from pyspark.mllib.recommendation import ALS
 model = ALS.train(training, rank = 10, iterations = 5, lambda_=0.01)
+
+# Running the code
+
+Although ive forked other similar recommendation code but customized it with SPARK sql to get my desired input. The code is developed locally but also can be deployed into AWS or Google cloud platforms. please go through the recommended architectures below:
+https://github.com/pravinboppuri/Recommendation_engine_Spark/blob/master/AWS_Recommendation_model.JPG
+https://github.com/pravinboppuri/Recommendation_engine_Spark/blob/master/GCloud_recommendation_model.JPG
+
+I have a mix of Jupyter & python code for you to test
+
+1) engine.py
+2) engine.ipynb
+3) collabrative_R_engine.py
+4) collaborative_R_engine.ipynb
+5) Collabrative_engine_matixmodel.ipynb
+
+# output test results
+
+1) movie_recommendations.csv (output for movie recommendations)
+2) acommodation_predisctions.csv (output for accomodations from house rental website)
+
+
+
+
 
